@@ -1,4 +1,4 @@
-package com.devsuperior.demo.config.customgrant;
+package com.devsuperior.dscatalog.config.customgrant;
 
 import java.security.Principal;
 import java.util.HashSet;

@@ -1,4 +1,4 @@
-package com.devsuperior.demo.config.customgrant;
+package com.devsuperior.dscatalog.config.customgrant;
 
 import java.util.Arrays;
 import java.util.HashMap;
