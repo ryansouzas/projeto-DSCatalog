@@ -23,13 +23,12 @@ public class ProductServiceIT {
     private ProductRepository productRepository;
 
     private Long existingId;
-    private Long nonExistingId;
     private Long countTotalProducts;
 
     @BeforeEach
     void setUp() throws Exception{
         existingId = 1L;
-        nonExistingId = 1000L;
+        Long nonExistingId = 1000L;
         countTotalProducts = 25L;
     }
 
